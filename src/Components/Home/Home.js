@@ -41,7 +41,7 @@ const Home = () => {
           </div>
         )
       }
-      <table className="table" >
+      <table className="table mt-5" >
         <thead>
           <tr className="title">
             <th scope="col">Author</th>

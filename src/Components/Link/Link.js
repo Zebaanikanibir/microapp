@@ -1,6 +1,6 @@
 import React from 'react';
 import Modal from 'react-modal';
-
+import {Button } from 'react-bootstrap';
 const customStyles = {
   content: {
     top: '50%',

@@ -5,7 +5,7 @@ const Details = (props) => {
   const [modalIsOpen, setIsOpen] = useState(false);
   
   
-  function openModal(user) {
+  function openModal() {
 
    
     

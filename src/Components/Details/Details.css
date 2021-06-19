@@ -5,8 +5,8 @@
 }
 
 .click:hover{
-    background-color: rgb(219, 217, 217);
-    font-size: 16px;
+    background-color: rgb(245, 243, 243);
+   
 }
 
 .title{
@@ -21,3 +21,4 @@
 .Nvbar{
     background-color:rgba(128, 0, 128, 0.158);
 }
+
